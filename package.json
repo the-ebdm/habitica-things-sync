@@ -1,0 +1,10 @@
+{
+  "name": "habitica-things-sync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^7.6.2",
+    "commander": "^9.4.1"
+  }
+}
